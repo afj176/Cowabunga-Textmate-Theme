@@ -24,4 +24,4 @@ _[(Bart Mate reaching for Textmate 2)](http://blog.macromates.com/2010/why-2-0-i
 
 If you're a Vim User, see:
 
-[Cowabunga-Vim-Theme](https://afj176@github.com/afj176/Cowabunga-Vim-Theme.git)
+[Cowabunga-Vim-Theme](https://github.com/afj176/Cowabunga-Vim-Theme)
